@@ -1,4 +1,4 @@
-Hi who are you.
+HOW TO CHANGE MY NAME IN GITHUB
 
 <!---
 Rkzy1/Rkzy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
