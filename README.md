@@ -1,4 +1,4 @@
-Do Python, C and C++. Pretty much it.
+Programming?
 
 <!---
 Rkzy1/Rkzy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
